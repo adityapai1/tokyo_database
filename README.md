@@ -7,7 +7,8 @@ It showcases the extraction, transformation, and analysis of Olympic data, provi
 ## Architecture
 ![pipeline_architecture](https://github.com/user-attachments/assets/c200f6dc-fdb8-4a54-ab07-b6acd0a431ca)
 
-
+## Final Report 
+![image](https://github.com/user-attachments/assets/479923ae-a4e3-44b1-bb89-1f3b698579c1)
 
 
 ## Inside Azure Data Factory
